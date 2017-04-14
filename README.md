@@ -14,3 +14,15 @@ $ cpapi init
 $ cpapi list "/"
 ```
 
+Current set of commands on the CLI:
+- list
+- update
+- route
+
+Current set of commands available in NodeJS via require('crownpeak-accessapi')
+- AuthenticateAuth
+- AssetExists
+- AssetPaged
+- AssetRoute
+
+See wiki for more information
